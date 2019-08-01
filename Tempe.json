@@ -38,7 +38,7 @@
                 "contents": [
                     {
                         "type": "text",
-                        "text": "🇮​🇳​🇪​🇽​🇧​🇴​🇹​🇸​ 🇲​🇪​🇳​🇺",
+                        "text": "F-ʙᴏᴛʟɪɴᴇ",
                         "color": "#F7141F"
                     }
                 ]
@@ -162,7 +162,7 @@
                                 "flex": 1,
                                 "action": {
                                     "type": "uri",
-                                    "label": "🅼🆈 🅵🆁🅾🅿🅸🅻🅴",
+                                    "label": "🅼🆈 🅿🆁🅾 🅵🅸🅻🅴",
                                     "uri": "line://app/1623679774-k9nBDB6b?type=text&text=Myprofil"
                                 }
                             },
@@ -465,7 +465,7 @@
                                 "action": {
                                     "type": "uri",
                                     "label": "KLIK DISINI",
-                                    "uri": "line://ti/p/~denjaka-inexx"
+                                    "uri": "line://ti/p/~f.pitlok4"
                                 },
                                 "style": "primary",
                                 "color": "#10CF08"
